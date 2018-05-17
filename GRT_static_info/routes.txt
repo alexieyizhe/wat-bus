@@ -1,0 +1,75 @@
+route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
+1,1,Queen-River,3,80298f,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+2,2,Forest Heights,3,fcb94c,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+3,3,Ottawa South,3,f05a71,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+4,4,Glasgow,3,806950,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+5,5,Erb,3,008fd4,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+6,6,Bridge,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+7,7,Mainline,3,ed1c24,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+8,8,University/Fairview,3,00a550,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+9,9,Lakeshore,3,f7931d,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+10,10,College/Fairview,3,0071bb,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+11,11,Country Hills,3,135887,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+12,12,Westmount,3,ec008b,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+13,13,Laurelwood,3,ffca04,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+14,14,Waterloo Industrial,3,496e6d,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+16,16,Strasburg,3,86ac51,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+20,20,Victoria-Frederick,3,c7a0ca,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+21,21,Elmira,3,a6ce38,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+22,22,Laurentian West,3,756fb3,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+23,23,Idlewood,3,f6adcd,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+27,27,Chicopee,3,f58245,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+29,29,Keats Way,3,a54686,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+31,31,Columbia,3,aaa575,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+33,33,Huron,3,5a2a00,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+34,34,Bingemans,3,91268f,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+51,51,Hespeler,3,ff0000,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+52,52,Coronation,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+53,53,Franklin,3,00ff00,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+54,54,Lisbon Pines,3,00ffff,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+55,55,St. Andrews,3,9900cc,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+56,56,Dunbar,3,006633,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+57,57,Blair,3,ff6600,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+58,58,Elmwood,3,663333,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+59,59,Christopher,3,ff00ff,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+60,60,Northview Acres,3,003399,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+61,61,Fountain,3,00aaac,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+62,62,Woodside,3,405980,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+63,63,Champlain,3,ffb200,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+64,64,Langs,3,cc0000,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+67,67,Lovell Indsutrial,3,6600ff,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+72,72,Cherry Blossom,3,a15641,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+73,73,Northlake,3,00adef,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+75,75,Saginaw,3,ff6633,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+76,76,Doon South,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+77,77,Wilmot,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+78,78,Hanson,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+91,91,Late Night Loop,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
+92,92,University Loop,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
+110,110,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
+111,111,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
+116,116,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
+200,200,iXpress,3,005aa7,fdbc3b,http://www.grt.ca/en/routesSchedules/ixpress.asp
+201,201,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
+202,202,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
+203,203,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
+204,204,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
+8881,8881,Oktoberfest Concordia Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
+8882,8882,Oktoberfest Bingeman's Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
+8883,8883,Oktoberfest Queensmount Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
+8884,8884,Oktoberfest Chicopee Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
+9801,9801,GCI AM Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9851,9851,GCI PM Northview Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9901,9901,Huron Heights Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9903,9903,UW-Lakeshore/SMH-Fairview Express Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9904,9904,Rt 7 Eastwood Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9931,9931,Huron Industrial Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
+9932,9932,Northfield Industrial Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
+9951,9951,HHS-FGP/SMH-Fairview Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9952,9952,ECI-F1 Express Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9953,9953,ECI-F2 Express Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9954,9954,ECI-F3 Express Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9961,9961,ECI-King East Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9963,9963,ECI-Downtown 1 Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9964,9964,ECI-Downtown 2 Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9983,9983,Rt 14 and 7 Evening Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
