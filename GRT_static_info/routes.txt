@@ -37,7 +37,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 62,62,Woodside,3,405980,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 63,63,Champlain,3,ffb200,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 64,64,Langs,3,cc0000,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-67,67,Lovell Indsutrial,3,6600ff,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+67,67,Lovell Industrial,3,6600ff,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 72,72,Cherry Blossom,3,a15641,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 73,73,Northlake,3,00adef,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 75,75,Saginaw,3,ff6633,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
@@ -54,6 +54,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 202,202,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
 203,203,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
 204,204,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
+205,205,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
 8881,8881,Oktoberfest Concordia Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
 8882,8882,Oktoberfest Bingeman's Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
 8883,8883,Oktoberfest Queensmount Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
