@@ -1,6 +1,6 @@
 # WATBus
 
-#### NOTE: This project is being actively ported over to JavaScript. Please check out the js-revamp branch for the latest version.
+#### NOTE: This project is being actively ported over to JavaScript. Please check out the `develop` branch for the latest version.
 
 ### About
 WATBus(shouldItake?) is a convenient way to access information about Grand River Transit's bus service (with possible support for ION Rail, if Bombardier delivers the first working train in 50 years).
